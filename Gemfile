@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-feed"
-gem "jekyll-sitemap"
 gem "jekyll-include-cache"
-gem "jemoji"
